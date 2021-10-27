@@ -1,2 +1,2 @@
 # MixedReality
-anything experimental for Mixed Reality, initially I'll add projects of low functionality to increase complexity gradually
+anything experimental about mixed reality, initially I'll add low-functionality projects to gradually increase the complexity
